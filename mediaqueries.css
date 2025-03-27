@@ -96,5 +96,17 @@
     .text-container{
         text-align:justify;
     }
+    .a-container{
+        padding-top:14rem;
+    }
+    .e-con-sub{
+        display:flex;
+        text-align:initial;
+        flex-wrap:wrap;
+        flex-direction:row;
+        gap:2.5rem;
+        justify-content:space-around;
+        display:grid;
+        grid-template-columns:1fr 1fr;
 }
 
