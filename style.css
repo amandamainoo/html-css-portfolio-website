@@ -433,6 +433,12 @@ article{
     gap:2.5rem;
     justify-content:space-around;
 }
+.projects-details-container{
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    padding-top:5rem;
+}
 
 /*  CONTACTS */
 
